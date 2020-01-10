@@ -1,2 +1,2 @@
 # burger
-Burger eating app.
+Burger eating application. 
